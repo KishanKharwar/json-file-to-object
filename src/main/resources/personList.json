@@ -1,0 +1,56 @@
+[{
+  "firstName": "Perceval",
+  "lastName": "Gwinnel",
+  "age": 64,
+  "phone": "202-510-0351",
+  "address": {
+    "addressLine1": "56",
+    "addressLine2": "Stephen",
+    "city": "Laval",
+    "state": "Pays de la Loire",
+    "zip": "53009 CEDEX"
+  }
+}, {
+  "firstName": "Oona",
+  "lastName": "Martlew",
+  "age": 63,
+  "phone": "858-124-9935",
+  "address": {
+    "addressLine1": "16",
+    "addressLine2": "Susan",
+    "city": "Badaogu"
+  }
+}, {
+  "firstName": "Benedicta",
+  "lastName": "Sidgwick",
+  "age": 58,
+  "phone": "656-212-6506",
+  "address": {
+    "addressLine1": "7977",
+    "addressLine2": "Doe Crossing",
+    "city": "Binuangeun"
+  }
+}, {
+  "firstName": "Taylor",
+  "lastName": "Leare",
+  "age": 85,
+  "phone": "214-977-3030",
+  "address": {
+    "addressLine1": "1023",
+    "addressLine2": "Ridgeview",
+    "city": "Dallas",
+    "state": "Texas",
+    "zip": "75387"
+  }
+}, {
+  "firstName": "Horatia",
+  "lastName": "Frantzen",
+  "age": 99,
+  "phone": "946-857-5371",
+  "address": {
+    "addressLine1": "275",
+    "addressLine2": "Service",
+    "city": "Pil’na",
+    "zip": "607483"
+  }
+}]
