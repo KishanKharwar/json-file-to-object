@@ -13,7 +13,6 @@ import org.springframework.web.bind.annotation.RestController;
 @RestController
 public class JsonReader {
 
-  private ResourceLoader loader;
   @Value("classpath:personList.json")
   private Resource jsonResource;
 
