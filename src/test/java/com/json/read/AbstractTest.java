@@ -38,6 +38,4 @@ public class AbstractTest {
     ObjectMapper objectMapper = new ObjectMapper();
     return objectMapper.readValue(json, clazz);
   }
-
-
 }
